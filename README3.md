@@ -1,6 +1,6 @@
 north-american-octo-dubstepo
 ===========================
 
-![](//woodpost.png)
+![](/woodpost.png)
 
 this is a test
